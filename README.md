@@ -9,6 +9,11 @@ Universidad Internacional de Valencia*
 Prof: Dr. Horacio Kuna
 Dictado: ABR23-24
 
+Estudiante: Juan Guillermo Escobar
+
+---
+
+
 ## Descripción del contenido
 
 Carpetas:
