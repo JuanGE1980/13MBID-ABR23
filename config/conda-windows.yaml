@@ -1,4 +1,4 @@
-name: data
+name: 13MBID
 channels:
   - conda-forge
   - defaults
