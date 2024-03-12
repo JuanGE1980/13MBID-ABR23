@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/guillermo/Documents/VIU/13MBID-ABR23/notebooks/03-Modelado%2BEvaluacion/mlruns/975707687366832107/7b17b1731ad541c3bd47803a10f2623b/artifacts
+deleted_time: 1710217756350
+end_time: 1710217595177
+entry_point_name: ''
+experiment_id: '975707687366832107'
+lifecycle_stage: deleted
+run_id: 7b17b1731ad541c3bd47803a10f2623b
+run_name: 'Logistic Regression #2'
+run_uuid: 7b17b1731ad541c3bd47803a10f2623b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710217588350
+status: 3
+tags: []
+user_id: guillermo

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/guillermo/Documents/VIU/13MBID-ABR23/notebooks/03-Modelado%2BEvaluacion/mlruns/219266049808372185/2618dc1c068741f9a4774bbdff0b2ad1/artifacts
+deleted_time: 1710213942180
+end_time: 1710211059126
+entry_point_name: ''
+experiment_id: '219266049808372185'
+lifecycle_stage: deleted
+run_id: 2618dc1c068741f9a4774bbdff0b2ad1
+run_name: KNN
+run_uuid: 2618dc1c068741f9a4774bbdff0b2ad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710211045233
+status: 3
+tags: []
+user_id: guillermo

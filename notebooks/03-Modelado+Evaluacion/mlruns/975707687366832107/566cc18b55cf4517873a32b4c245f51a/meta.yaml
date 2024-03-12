@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/guillermo/Documents/VIU/13MBID-ABR23/notebooks/03-Modelado%2BEvaluacion/mlruns/975707687366832107/566cc18b55cf4517873a32b4c245f51a/artifacts
+end_time: 1710217408127
+entry_point_name: ''
+experiment_id: '975707687366832107'
+lifecycle_stage: active
+run_id: 566cc18b55cf4517873a32b4c245f51a
+run_name: Decision Tree (#2)
+run_uuid: 566cc18b55cf4517873a32b4c245f51a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710217401138
+status: 3
+tags: []
+user_id: guillermo

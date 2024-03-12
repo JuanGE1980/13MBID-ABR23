@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/guillermo/Documents/VIU/13MBID-ABR23/notebooks/03-Modelado%2BEvaluacion/mlruns/642910274975802156/9ed7245cbc9d47d182e4a8a3e26f4eee/artifacts
+deleted_time: 1710219808761
+end_time: 1710219753489
+entry_point_name: ''
+experiment_id: '642910274975802156'
+lifecycle_stage: deleted
+run_id: 9ed7245cbc9d47d182e4a8a3e26f4eee
+run_name: 'Random Forest #3'
+run_uuid: 9ed7245cbc9d47d182e4a8a3e26f4eee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710219739400
+status: 3
+tags: []
+user_id: guillermo
